@@ -9,6 +9,7 @@
     </span>
     {{ projects.title }}
   </h2>
+  <div class="time">{{ project.time }}</div>
 
   {% if projects.intro %}
   <div class="intro">
@@ -26,7 +27,7 @@
         {{ project.title }}
         {% endif %}
       </span>
-    <div class="time">{{ project.time }}</div>
+    
       {% if project.tagline %}
       - <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
