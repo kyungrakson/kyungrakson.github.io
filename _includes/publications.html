@@ -18,13 +18,27 @@
 
   {% for publication in publications.papers %}
   <div class="item">
+    <span class="publication-authors">{{ publication.authors }}</span>
     {% if publication.link %}
-      <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
+      <span><a href="{{ publication.link }}">{{ publication.title }}</a></span>
     {% else %}
-      <li>{{ publication.title }}</li>
+      <span>{{ publication.title }}</span>
     {% endif %}
-    <div class="publication-authors">{{ publication.authors }}</div>
-    <div class="publication-conference">{{ publication.conference }}</div>
+    {% if publication.journal %}
+      <span class="publication-conference">{{ publication.journal }}</span> 
+    <!-- <span class="publication-conference">{"vol."{ publication.vol }}</span> 
+      <span class="publication-conference">{"no."{ publication.no }}</span> 
+      <span class="publication-conference">{"pp." { publication.pages }}</span> 
+      <span class="publication-conference">{{ publication.date }}</span> 
+    {% endif %}
+    {% if publication.conference %}
+      <span class="publication-conference">{{ publication.conference }}</span> 
+      <span class="publication-conference">{"vol."{ publication.vol }}</span> 
+      <span class="publication-conference">{"no."{ publication.no }}</span> 
+      <span class="publication-conference">{{ publication.conference }}</span> -->
+    {% endif %}
+    <!--<div class="publication-authors">{{ publication.authors }}</div>
+    <div class="publication-conference">{{ publication.conference }}</div> -->
   </div><!--//item-->
   {% endfor %}
 
