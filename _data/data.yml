@@ -115,15 +115,6 @@ publications:
         date : "Oct. 2021."
         journal: IEEE Sig. Proc. Lett.,
 
-      - title: "''Private real-time status updating,''"
-        link: "https://ieeexplore.ieee.org/document/9628120"
-        authors: "H. Seo&#44; H. Lee&#44; <b> K. Son </b>&#44; and W. Choi&#44;"
-        volume: "vol. 26,"
-        number : "no. 2,"
-        pages : "pp. 239-243,"
-        date : "Feb. 2022."
-        journal: IEEE Commun. Lett.,
-
       - title: "''Communication-efficient private information acquisition: multicasting via crowding,''"
         link: "https://ieeexplore.ieee.org/document/9440720"
         authors: "H. Seo&#44; <b> K. Son </b>&#44; S. Park&#44; and W. Choi&#44;"
@@ -134,7 +125,7 @@ publications:
         journal: IEEE Trans. Vehi. Technol.,
 
       - title: "''Wireless index coded transmission by spatial multiplexing with multiple antennas,''"
-        link: "https://ieeexplore.ieee.org/document/9440720"
+        link: "https://ieeexplore.ieee.org/document/9400758"
         authors: "<b> K. Son </b>&#44; J. H. Lee&#44; and W. Choi&#44;"
         volume: "vol. 18,"
         number : "no. 5,"
