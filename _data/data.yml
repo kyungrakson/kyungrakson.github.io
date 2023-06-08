@@ -75,7 +75,7 @@ publications:
     papers:
       - title: "''Joint optimization of edge computing server deployment and user offloading associations in wireless edge network via a genetic learning algorithm,''"
         link: "#"
-        authors: H. Song, B. Koo, {{<b> K. Son <\b>}}, and W. Choi,
+        authors: H. Song, B. Koo, <b> K. Son <\b>, and W. Choi,
         vol: "9"
         no : "4"
         pp : "2535-2548"
