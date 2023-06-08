@@ -70,17 +70,17 @@ education:
         time: Mar. 2016 - Aug. 2021
 #         Advisor: Prof. Wan Choi
 #         Thesis: Coded Multicasting and Coded Computing for Wireless Edge Processing
-         details: |
-           "Advisor: Prof. Wan Choi"
-           "Thesis: Coded Multicasting and Coded Computing for Wireless Edge Processing"
+#          details: |
+#            "Advisor: Prof. Wan Choi"
+#            "Thesis: Coded Multicasting and Coded Computing for Wireless Edge Processing"
       - degree: MSc in Electrical Engineering
         university: Korea Advanced Institute of Science and Technology, Daejeon, Korea
         time: Mar. 2014 - Feb. 2016 
 #         Advisor: Prof. Wan Choi
 #         Thesis: Sliding Window Superposition Coding in two user MIMO Interference Channel
-        details: |
-           Advisor: Prof. Wan Choi
-           Thesis: Sliding Window Superposition Coding in two user MIMO Interference Channel
+#         details: |
+#            Advisor: Prof. Wan Choi
+#            Thesis: Sliding Window Superposition Coding in two user MIMO Interference Channel
       - degree: "BSc in Electrical Engineering (Double major : Mathematical Science)"
         university: Korea Advanced Institute of Science and Technology, Daejeon, Korea
         time: Feb. 2010 - Feb. 2014
