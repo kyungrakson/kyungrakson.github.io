@@ -97,6 +97,23 @@ publications:
         pp : "pp. 2560-2575,"
         date : "May 2022."
         journal: IEEE Trans. Sig. Proc.
+        
+      - title: "''Private real-time status updating,''"
+        link: "https://ieeexplore.ieee.org/document/9772275"
+        authors: "H. Seo&#44; H. Lee&#44; <b> K. Son </b>&#44; and W. Choi&#44;"
+        vol: "vol. 26,"
+        number : "no. 2,"
+        pp : "pp. 239-243,"
+        date : "Feb. 2022."
+        journal: IEEE Commun. Lett.
+
+      - title: "''Joint design of shuffling and function assignment for communication load reduction in distributed coded computing,''"
+        link: "https://ieeexplore.ieee.org/document/9772275"
+        authors: "H. Song&#44; <b> K. Son </b>&#44; and W. Choi&#44;"
+        vol: "vol. 70,"
+        pp : "pp. 2560-2575,"
+        date : "May 2022."
+        journal: IEEE Trans. Sig. Proc.        
 
 
         
