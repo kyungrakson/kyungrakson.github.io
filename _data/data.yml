@@ -125,14 +125,31 @@ publications:
         journal: IEEE Commun. Lett.,
 
       - title: "''Communication-efficient private information acquisition: multicasting via crowding,''"
-        link: "https://ieeexplore.ieee.org/document/9628120"
+        link: "https://ieeexplore.ieee.org/document/9440720"
         authors: "H. Seo&#44; <b> K. Son </b>&#44; S. Park&#44; and W. Choi&#44;"
         volume: "vol. 70,"
         number : "no. 7,"
         pages : "pp. 7199-7204,"
         date : "July 2021."
-        journal: IEEE Trans. Vehi. Technol.
+        journal: IEEE Trans. Vehi. Technol.,
 
+      - title: "''Wireless index coded transmission by spatial multiplexing with multiple antennas,''"
+        link: "https://ieeexplore.ieee.org/document/9440720"
+        authors: "<b> K. Son </b>&#44; J. H. Lee&#44; and W. Choi&#44;"
+        volume: "vol. 18,"
+        number : "no. 5,"
+        pages : "pp. 5104-5108,"
+        date : "May 2021."
+        journal: IEEE Trans. Vehi. Technol.,
+
+      - title: "''User-cache aided transmission with index coding in K-user downlink channels,''"
+        link: "https://ieeexplore.ieee.org/document/8847639"
+        authors: "<b> K. Son </b>&#44; J. H. Lee&#44; and W. Choi&#44;"
+        volume: "vol. 18,"
+        number : "no. 12,"
+        pages : "pp. 6043-6058,"
+        date : "Dec. 2019."
+        journal: IEEE Trans. Wireless Commun.,
 
         
         
