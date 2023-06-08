@@ -12,9 +12,10 @@ sidebar:
     avatar: #profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: kyungrakson@snu.ac.kr
-    email: kyungraks@gmail.com
-    email: kyungraks@outlook.com
+    email:
+      email1: kyungrakson@snu.ac.kr
+      email1: kyungraks@gmail.com
+      email1: kyungraks@outlook.com
     phone: (+82)10-7553-1807
     #timezone: America/Cancun Timezone
     citizenship:
