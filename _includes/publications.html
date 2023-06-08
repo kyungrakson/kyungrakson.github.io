@@ -18,7 +18,7 @@
 
   {% for publication in publications.papers %}
   <div class="item">
-    <span class="publication-authors">{{safeHTML publication.authors }}</span>
+    <span class="publication-authors">{{publication.authors }}</span>
     {% if publication.link %}
       <span><a href="{{ publication.link }}">{{ publication.title }}</a></span>
     {% else %}
