@@ -21,22 +21,22 @@ sidebar:
     citizenship:
     website: kyungrakson.github.io #blog.webjeda.com #do not add http://
     address: "Institute of New Media and Communications, Department of Electrical and Computer Engineering, Seoul National University (SNU), 1 Gwanak-ro, Gwanak-gu, Seoul, 08826, South Korea."
-    linkedin: a #alandoe
-    xing: b #alandoe
-    github: c #sharu725
-    telegram: d # add your nickname without '@' sign
+    linkedin: #alandoe
+    xing: #alandoe
+    github: #sharu725
+    telegram: # add your nickname without '@' sign
     #gitlab:"e" 
     #bitbucket:"f" 
-    twitter: g #'@webjeda'
-    stack-overflow: h # Number/Username, e.g. 123456/alandoe
-    codewars: i
-    goodreads: j # Number-Username, e.g. 123456-alandoe
-    pdf: k #http://www.africau.edu/images/default/sample.pdf
+    twitter: #'@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars: 
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: #http://www.africau.edu/images/default/sample.pdf
 
 career-profile:
     title: Biography (UNDER CONSTRUCTION!!)
     summary: |
-      "Kyungrak Son received the B.S. degree from the School of Electrical Engineering and Mathematical Sciences, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea, in 2014, and the M.S. and Ph.D. degrees from from the School of Electrical Engineering, KAIST, in 2016 and 2021, respectively. He is currently a Postdoctoral Research Scholar with Seoul National University, Seoul, South Korea. His research interests include wireless communications coding/information theory, signal processing, Applications of discrete mathematics, abstract algebra in information systems."
+      Kyungrak Son received the B.S. degree from the School of Electrical Engineering and Mathematical Sciences, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea, in 2014, and the M.S. and Ph.D. degrees from from the School of Electrical Engineering, KAIST, in 2016 and 2021, respectively. He is currently a Postdoctoral Research Scholar with Seoul National University, Seoul, South Korea. His research interests include wireless communications coding&#47; information theory, signal processing, Applications of discrete mathematics, abstract algebra in information systems.
       
 education:
     title: Education
