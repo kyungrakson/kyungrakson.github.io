@@ -76,23 +76,29 @@ publications:
       - title: "''Joint optimization of edge computing server deployment and user offloading associations in wireless edge network via a genetic learning algorithm,''"
         link: "https://ieeexplore.ieee.org/document/9754267"
         authors: "H. Song&#44; B. Koo&#44; <b> K. Son </b>&#44; and W. Choi&#44;"
-        volume: "vol. 9"
-        number : " 4,"
-        pp : " 2535-2548,"
+        volume: "vol. 9,"
+        number : "no. 4,"
+        pp : "pp. 2535-2548,"
         date : "Jul.-Aug. 2022."
         journal: IEEE Trans. Netw. Sci. Eng.
 
       - title: "''Distributed matrix multiplication based on frame quantization for straggler mitigation,''"
         link: "https://ieeexplore.ieee.org/document/9795230"
         authors: <b> K. Son </b> and W. Choi,
-        vol: "70"
-        pp : "3058 - 3073"
+        vol: "vol. 70,"
+        pp : "pp. 3058 - 3073,"
+        date : "June 2022."
         journal: IEEE Trans. Sig. Proc.
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "''Joint design of shuffling and function assignment for communication load reduction in distributed coded computing,''"
+        link: "https://ieeexplore.ieee.org/document/9772275"
+        authors: "H. Song&#44; <b> K. Son </b>&#44; and W. Choi&#44;"
+        vol: "vol. 70,"
+        pp : "pp. 2560-2575,"
+        date : "May 2022."
+        journal: IEEE Trans. Sig. Proc.
+
+
         
         
 projects:
