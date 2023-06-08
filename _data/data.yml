@@ -49,7 +49,7 @@ education:
       - degree: MSc in Electrical Engineering
         university: Korea Advanced Institute of Science and Technology, Daejeon, Korea
         time: Mar. 2014 - Feb. 2016         
-        Advisor: "Adivsor: Prof. Wan Choi"
+        #Advisor: "Adivsor: Prof. Wan Choi"
         Thesis: "Thesis: Sliding Window Superposition Coding in two user MIMO Interference Channel"
       - degree: "BSc in Electrical Engineering (Double major : Mathematical Science)"
         university: Korea Advanced Institute of Science and Technology, Daejeon, Korea
