@@ -106,7 +106,7 @@ experiences:
     title: Experiences
     info:
       - role: Visiting scholar  #Lead Developer
-        time: Sep. 2019 - Dec. 2019 / Aug. 2022 - Jan. 2023
+        time: Sep. 2019 - Dec. 2019 #/ Aug. 2022 - Jan. 2023
         company: Iowa State University of Science and Technology (Host: Aditya Ramamoorthy)
       - role: Research Assistant 
         time: Mar. 2015 - Aug. 2021
