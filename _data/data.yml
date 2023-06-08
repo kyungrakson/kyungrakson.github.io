@@ -29,30 +29,6 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: #http://www.africau.edu/images/default/sample.pdf
 
-#     languages:
-#       title: Languages
-#       info:
-#         - idiom: English
-#           #level: Native
-
-#         - idiom: French
-#           #level: Professional
-
-#         - idiom: Spanish
-#           #level: Professional 
-
-#     interests:
-#       title: Interests
-#       info:
-#         - item: Climbing
-#           link:
-
-#         - item: Snowboarding
-#           link:
-
-#         - item: Cooking
-#           link:
-
 career-profile:
     title: Career Profile
     summary: |
@@ -78,14 +54,7 @@ education:
       - degree: "BSc in Electrical Engineering (Double major : Mathematical Science)"
         university: Korea Advanced Institute of Science and Technology, Daejeon, Korea
         time: Feb. 2010 - Feb. 2014
-#         details: |
-#           Describe your study here lorem ipsum dolor sit amet, consectetuer
-#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-#           sociis natoque penatibus et magnis dis parturient montes, nascetur
-#           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-#           pretium quis, sem.
-#             - Bullet point
-#             - Bullet point
+
 experiences:
     title: Experiences
     info:
@@ -98,20 +67,7 @@ experiences:
         details: |
           - Mainly participated in six projects
           - Teaching assistant for six courses
-#          Describe your study here lorem ipsum dolor sit amet, consectetuer
-#          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-#          sociis natoque penatibus et magnis dis parturient montes, nascetur
-#          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-#          pretium quis, sem.
-#            - Bullet point
-#            - Bullet point
-#           Describe your role here lorem ipsum dolor sit amet, consectetuer
-#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#           Cum sociis natoque penatibus et magnis dis parturient montes,
-#           nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#           pellentesque eu, pretium quis, sem.
-#             - Bullet point
-#             - Bullet point
+
 
 projects:
     title: Projects
