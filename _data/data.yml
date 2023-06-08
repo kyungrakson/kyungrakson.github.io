@@ -80,7 +80,7 @@ publications:
         number : "no. 4,"
         pages : "pp. 2535-2548,"
         date : "Jul.-Aug. 2022."
-        journal: IEEE Trans. Netw. Sci. Eng.
+        journal: IEEE Trans. Netw. Sci. Eng.,
 
       - title: "''Distributed matrix multiplication based on frame quantization for straggler mitigation,''"
         link: "https://ieeexplore.ieee.org/document/9795230"
@@ -88,7 +88,7 @@ publications:
         volume: "vol. 70,"
         pages : "pp. 3058 - 3073,"
         date : "June 2022."
-        journal: IEEE Trans. Sig. Proc.
+        journal: IEEE Trans. Sig. Proc.,
 
       - title: "''Joint design of shuffling and function assignment for communication load reduction in distributed coded computing,''"
         link: "https://ieeexplore.ieee.org/document/9772275"
@@ -96,7 +96,7 @@ publications:
         volume: "vol. 70,"
         pages : "pp. 2560-2575,"
         date : "May 2022."
-        journal: IEEE Trans. Sig. Proc.
+        journal: IEEE Trans. Sig. Proc.,
 
       - title: "''Private real-time status updating,''"
         link: "https://ieeexplore.ieee.org/document/9628120"
@@ -105,7 +105,7 @@ publications:
         number : "no. 2,"
         pages : "pp. 239-243,"
         date : "Feb. 2022."
-        journal: IEEE Commun. Lett.
+        journal: IEEE Commun. Lett.,
 
       - title: "''Distributed matrix multiplication using group algebra for on-device edge computing,''"
         link: "https://ieeexplore.ieee.org/document/9557826"
@@ -113,7 +113,25 @@ publications:
         volume: "vol. 28,"
         pages : "pp. 2097-2101,"
         date : "Oct. 2021."
-        journal: IEEE Sig. Proc. Lett.
+        journal: IEEE Sig. Proc. Lett.,
+
+      - title: "''Private real-time status updating,''"
+        link: "https://ieeexplore.ieee.org/document/9628120"
+        authors: "H. Seo&#44; H. Lee&#44; <b> K. Son </b>&#44; and W. Choi&#44;"
+        volume: "vol. 26,"
+        number : "no. 2,"
+        pages : "pp. 239-243,"
+        date : "Feb. 2022."
+        journal: IEEE Commun. Lett.,
+
+      - title: "''Communication-efficient private information acquisition: multicasting via crowding,''"
+        link: "https://ieeexplore.ieee.org/document/9628120"
+        authors: "H. Seo&#44; <b> K. Son </b>&#44; S. Park&#44; and W. Choi&#44;"
+        volume: "vol. 70,"
+        number : "no. 7,"
+        pages : "pp. 7199-7204,"
+        date : "July 2021."
+        journal: IEEE Trans. Vehi. Technol.
 
 
         
