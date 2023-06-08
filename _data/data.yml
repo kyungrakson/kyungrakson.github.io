@@ -75,17 +75,20 @@ experiences:
 publications:
     title: Publications
     papers:
-      - title: "``Joint optimization of edge computing server deployment and user offloading associations in wireless edge network via a genetic learning algorithm''"
+      - title: "''Joint optimization of edge computing server deployment and user offloading associations in wireless edge network via a genetic learning algorithm,''"
         link: "#"
         authors: H. Song, B. Koo, \textbf{K. Son}, and W. Choi,
         vol: "9"
         no : "4"
+        pp : "2535-2548"
         journal: IEEE Trans. Netw. Sci. Eng.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "''Distributed matrix multiplication based on frame quantization for straggler mitigation,''"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: \textbf{K. Son} and W. Choi,
+        vol: "70"
+        pp : "3058 - 3073"
+        journal: IEEE Trans. Sig. Proc.
 
       - title: A syntax directed compiler for Algol 60
         link: "#"
