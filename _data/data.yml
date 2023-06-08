@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Kyungrak Son
-    tagline: Researcher
+    tagline: Postdoctoral Researcher
     avatar: #profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -65,9 +65,24 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Ph. D in Electrical Engineering
+        university: Korea Advanced Institute of Science and Technology, Daejeon, Korea
+        time: Mar. 2016 - Aug. 2021
+        Advisor : Prof. Wan Choi
+        Thesis : Coded Multicasting and Coded Computing for Wireless Edge Processing
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point 
+            - Bullet point
+      - degree: MSc in Electrical Engineering
+        university: Korea Advanced Institute of Science and Technology, Daejeon, Korea
+        time: Mar. 2014 - Feb. 2016
+        Advisor: Prof. Wan Choi\\
+        Thesis: Sliding Window Superposition Coding in two user MIMO Interference Channel
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -76,9 +91,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: BSc in Electrical Engineering (Double major: Mathematical Science)
+        university: Korea Advanced Institute of Science and Technology, Daejeon, Korea
+        time: Feb. 2010 - Feb. 2014
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
