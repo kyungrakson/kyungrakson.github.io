@@ -26,7 +26,7 @@
     {% endif %}
     {% if publication.journal %}
       <span class="publication-conference">{{ publication.journal }}</span> 
-      <span class="publication-conference">{vol.{ publication.vol }}</span> 
+      <span class="publication-conference">{{"vol." publication.vol }}</span> 
       <span class="publication-conference">{no.{ publication.no }}</span> 
       <span class="publication-conference">{pp. { publication.pages }}</span> 
       <span class="publication-conference">{{ publication.date }}</span> 
