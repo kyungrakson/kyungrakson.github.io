@@ -49,7 +49,7 @@ education:
       - degree: MSc in Electrical Engineering
         university: Korea Advanced Institute of Science and Technology, Daejeon, Korea
         time: Mar. 2014 - Feb. 2016         
-        #Advisor: "Adivsor: Prof. Wan Choi"
+        Advisor: "Adivsor: Prof. Wan Choi"
         Thesis: "Thesis: Sliding Window Superposition Coding in two user MIMO Interference Channel"
       - degree: "BSc in Electrical Engineering (Double major : Mathematical Science)"
         university: Korea Advanced Institute of Science and Technology, Daejeon, Korea
@@ -59,7 +59,7 @@ experiences:
     title: Experiences
     info:
       - role: Visiting Scholar  #Lead Developer
-        time: "Sep. 2019 - Dec. 2019 / Aug. 2022 - Jan. 2023"
+        time: "Sep. 2019 - Dec. 2019 & Aug. 2022 - Jan. 2023"
         company: Iowa State University of Science and Technology (Host - Aditya Ramamoorthy)
       - role: "Research & Teaching Assistant"
         time: Mar. 2015 - Aug. 2021
