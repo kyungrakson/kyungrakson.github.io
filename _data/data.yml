@@ -21,17 +21,17 @@ sidebar:
     citizenship:
     website: kyungrakson.github.io #blog.webjeda.com #do not add http://
     address: "Institute of New Media and Communications, Department of Electrical and Computer Engineering, Seoul National University (SNU), 1 Gwanak-ro, Gwanak-gu, Seoul, 08826, South Korea."
-    linkedin: #alandoe
-    xing: #alandoe
-    github: #sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: #'@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: #http://www.africau.edu/images/default/sample.pdf
+    linkedin: a #alandoe
+    xing: b #alandoe
+    github: c #sharu725
+    telegram: d # add your nickname without '@' sign
+    gitlab:e 
+    bitbucket:f 
+    twitter: g #'@webjeda'
+    stack-overflow: h # Number/Username, e.g. 123456/alandoe
+    codewars: i
+    goodreads: j # Number-Username, e.g. 123456-alandoe
+    pdf: k #http://www.africau.edu/images/default/sample.pdf
 
 career-profile:
     title: Career Profile
