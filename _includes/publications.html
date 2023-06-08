@@ -25,14 +25,14 @@
       <span>{{ publication.title }}</span>
     {% endif %}
     {% if publication.journal %}
-      <span class="publication-conference">{{ publication.journal }}</span> 
+      <span class="publication-jrnl_conf">{{ publication.journal }}</span> 
       <span class="publication-conference">{{"vol. " publication.vol ","}}</span> 
       <span class="publication-conference">{{"no. " publication.no ","}}</span> 
       <span class="publication-conference">{{"pp. " publication.pages ","}}</span> 
       <span class="publication-conference">{{ publication.date }}</span> 
     {% endif %}
     {% if publication.conference %}
-      <span class="publication-conference">{ publication.conference }}</span> 
+      <span class="publication-jrnl_conf">{ publication.conference }}</span> 
       <span class="publication-conference">{{publication.place ","}}</span> 
       <span class="publication-conference">{{ publication.date }}</span> 
       {% if publication.pages %}
