@@ -98,6 +98,12 @@
       <a href="{{ sidebar.pdf }}" target="_blank">Resume PDF</a>
     </li>
     {% endif %}
+    
+    {% if sidebar.address %}
+    <li class="phone"><i class="fas fa-passport"></i>
+      <a href="">{{ sidebar.address }}</a>
+    </li>
+    {% endif %}
 
   </ul>
 </div><!--//contact-container-->
