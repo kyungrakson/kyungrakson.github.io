@@ -78,6 +78,7 @@ publications:
       - title: The Art of Computer Programming
         link: "#"
         authors: Donald E. Knuth
+        vol: 30
         journal: Addison-Wesley, 1968
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
