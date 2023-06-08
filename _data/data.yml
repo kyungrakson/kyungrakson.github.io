@@ -75,16 +75,11 @@ publications:
     papers:
       - title: "''Joint optimization of edge computing server deployment and user offloading associations in wireless edge network via a genetic learning algorithm,''"
         link: "https://ieeexplore.ieee.org/document/9754267"
-<<<<<<< HEAD
-        authors: H. Song, B. Koo, <b> K. Son </b>, and W. Choi,
-        vol: "9"
+        authors: "H. Song&#44; B. Koo&#44; <b> K. Son </b>&#44; and W. Choi&#44;"
+        volume: "9"
         number : "4"
-=======
-        authors: H. Song, B. Koo, <b> K. Son </b>, and W. Choi,
-        vol: "9"
-        number : "4"
->>>>>>> 384470ce0643b38b5f2ff976ad107bfd739320cf
         pp : "2535-2548"
+        date : "Jul.-Aug. 2022"
         journal: IEEE Trans. Netw. Sci. Eng.
 
       - title: "''Distributed matrix multiplication based on frame quantization for straggler mitigation,''"
