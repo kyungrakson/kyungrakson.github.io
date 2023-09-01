@@ -152,7 +152,6 @@ inpreparation:
     title: Submitted or In Preparation
     papers:
       - title: "''Coded matrix computation in wireless networks,''"
-        #link: "https://ieeexplore.ieee.org/document/9754267"
         authors: <b> K. Son <b> and W. Choi,
         journal: Submitted to IEEE Trans. Wireless Commun., (In major revision)
 
