@@ -8,19 +8,19 @@ sidebar:
 
     # Profile information
     name: Kyungrak Son
-    tagline: Postdoctoral Researcher
+    tagline: Assistant Professor
     avatar: #profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email:
-      email1: kyungrakson@snu.ac.kr
+      email1: krson@hufs.ac.kr
       email2: kyungraks@gmail.com
       email3: kyungraks@outlook.com
-    phone: (+82)10-7553-1807
+    phone: (+82) 31-330-4281
     #timezone: America/Cancun Timezone
     citizenship:
     website: kyungrakson.github.io #blog.webjeda.com #do not add http://
-    address: "Institute of New Media and Communications, Department of Electrical and Computer Engineering, Seoul National University (SNU), 1 Gwanak-ro, Gwanak-gu, Seoul, 08826, South Korea."
+    address: "Department of Information Communication Engineering, Hankuk University of Foreign Studies (HUFS), 81 Oedae-ro, Engineering Building #414, Yongin 17035, Gyeonggi-do, South Korea"
     linkedin: #alandoe
     xing: #alandoe
     github: #sharu725
@@ -34,9 +34,9 @@ sidebar:
     pdf: #http://www.africau.edu/images/default/sample.pdf
 
 career-profile:
-    title: Biography (UNDER CONSTRUCTION!!)
+    title: Biography 
     summary: |
-      Kyungrak Son received the B.S. degree from the Department of Electrical Engineering and Mathematical Sciences, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea, in 2014, and the M.S. and Ph.D. degrees from from the School of Electrical Engineering, KAIST, in 2016 and 2021, respectively. He is currently a Postdoctoral Researcher at Seoul National University, Seoul, South Korea. His research interests include wireless communications coding&#47; information theory, signal processing, Applications of discrete mathematics, abstract algebra in information systems.
+      Kyungrak Son received the B.S. degree from the Department of Electrical Engineering and Mathematical Sciences, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea, in 2014, and the M.S. and Ph.D. degrees from from the School of Electrical Engineering, KAIST, in 2016 and 2021, respectively. From Sep. 2021 to Aug. 2023, he was a postdoctoral researcher at Seoul National University, Seoul, South Korea. In 2019 and 2022, he was a visiting scholar at electrical and computer engineering at Iowa State University, Ames, Iowa, USA. Currently, from Sep. 2023, he is an assistant professor at the Department of Information Communications Engineering, Hankuk University of Foreign Studies (HUFS), Yongin, South Korea. His research interests include wireless communications, coding&#47; information theory, signal processing, applications of discrete mathematics, abstract algebra in various information systems.
       
 education:
     title: Education
