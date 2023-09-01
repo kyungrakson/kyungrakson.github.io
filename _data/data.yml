@@ -165,7 +165,7 @@ inpreparation:
         authors: "K. Son&#44; S. Park&#44; and W. Choi&#44;"
         journal: in preparation.
 
-      - title: "''Numerically stable matrix computations using Steiner systems,''"
+      - title: "''Numerically computations using Steiner systems,''"
         #link: "https://ieeexplore.ieee.org/document/9754267"
         authors: 
         journal: in preparation.
@@ -199,7 +199,12 @@ conferences:
         date: "Oct. 2020,"
         pages: "pp. 1-6."
 
-
+      - title: "''Optimization of index code and transmission time for minimum outage in broadcast channels,''"
+        authors: "<b> K. Son </b>&#44; J. H. Lee&#44; and W. Choi&#44;"
+        conference : in Proc. of IEEE IEEE Wireless Commun. and Networking Conference (WCNC)
+        place: "Barcelona, Spain,"
+        date: "Apr. 2018,"
+        pages: "pp. 1-6."
         
 projects:
     title: Projects
