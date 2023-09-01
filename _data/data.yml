@@ -153,7 +153,7 @@ inpreparation:
     papers:
       - title: "''Coded matrix computation in wireless networks,''"
         #link: "https://ieeexplore.ieee.org/document/9754267"
-        authors: "<b> K. Son <b> and W. Choi&#44;"
+        authors: <b> K. Son <b> and W. Choi,
         journal: Submitted to IEEE Trans. Wireless Commun., (In major revision)
 
       - title: "''ICNet: index coding neural network based on graph isomorphism,''"
