@@ -24,21 +24,17 @@
     {% else %}
       <span>{{ conferences.title }}</span>
     {% endif %}
-      {% if conferences.conference %}
         {% if conferences.conference %}
           <span class="conferences-jrnl_conf">{ conferences.conference }}</span> 
           <span class="conferences-conference">{{conferences.place }}</span> 
           <span class="conferences-conference">{{ conferences.date }}</span> 
+                  {% if conferences.pages %}
+                    <span class="conferences-conference">{{ conferences.pages }}</span> 
+                  {% endif %}
         {% endif %}
         {% if conferences.accept %}
           <span class="conferences-conference">{{conferences.accept }}</span> 
-          <span class="conferences-conference">{{conferences.place }}</span> 
-          <span class="conferences-conference">{{ conferences.date }}</span> 
         {% endif %}
-      {% if conferences.pages %}
-        <span class="conferences-conference">{{ conferences.pages }}</span> 
-      {% endif %}
-    {% endif %}
 
     <!--<div class="conferences-authors">{{ conferences.authors }}</div>
     <div class="conferences-conference">{{ conferences.conference }}</div> -->
