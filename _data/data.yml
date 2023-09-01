@@ -61,10 +61,16 @@ experiences:
     info:
       - role: Visiting Scholar  
         time: "Sep. 2019 - Dec. 2019 & Aug. 2022 - Jan. 2023"
-        company: Iowa State University of Science and Technology (Host - Aditya Ramamoorthy)
+        company: Iowa State University of Science and Technology, Ames, Iowa, USA (Host - Aditya Ramamoorthy)
+        details: |
+          - Studying distributed&#47; quantum computing
+          - Studying representation theory, combinatorial design
+      - role: Postdoctoral Researcher
+        time: "Sep. 2021 - Aug. 2023"
+        company: Seoul National University, Seoul, South Korea
       - role: "Research & Teaching Assistant"
         time: Mar. 2015 - Aug. 2021
-        company: Korea Advanced Institute of Science and Technology, Daejeon, Korea
+        company: Korea Advanced Institute of Science and Technology, Daejeon, South Korea
         details: |
           - Mainly participated in six projects
           - Teaching assistant for six courses
