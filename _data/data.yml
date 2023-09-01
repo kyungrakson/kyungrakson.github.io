@@ -158,15 +158,25 @@ publications:
 
       - title: "''ICNet: index coding neural network based on graph isomorphism,''"
         #link: "https://ieeexplore.ieee.org/document/9754267"
-        authors: "<b> K. Son <b>&#44; J. H. Lee&#44; and W. Choi&#44;"
+        authors: "<b> K. Son <b> &#44; J. H. Lee&#44; and W. Choi&#44;"
         journal: IEEE Trans. Vehi. Technol.
 
       - title: "''Numerically stability analysis of random coefficient based coded matrix computation,''"
         #link: "https://ieeexplore.ieee.org/document/9754267"
-        authors: "<b> K. Son <b>&#44; S. Park&#44; and W. Choi&#44;"
+        authors: "<b> K. Son <b> &#44; S. Park&#44; and W. Choi&#44;"
         journal: in preparation.
 
+      - title: "''“Numerically stable matrix computations using steiner systems,''"
+        #link: "https://ieeexplore.ieee.org/document/9754267"
+        authors: 
+        journal: in preparation.
 
+      - title: "3 more papers in preparation"
+        authors:
+        journal: in preparation.
+      # 희강, 호준, 광재
+      # magazine
+      # 
         
 projects:
     title: Projects
