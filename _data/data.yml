@@ -165,7 +165,7 @@ inpreparation:
         authors: "K. Son&#44; S. Park&#44; and W. Choi&#44;"
         journal: in preparation.
 
-      - title: "''“Numerically stable matrix computations using Steiner systems,''"
+      - title: "''Numerically stable matrix computations using Steiner systems,''"
         #link: "https://ieeexplore.ieee.org/document/9754267"
         authors: 
         journal: in preparation.
@@ -176,6 +176,17 @@ inpreparation:
       # 희강, 호준, 광재
       # magazine
       # 
+
+conferences:
+    title: Conferences
+    papers:
+      - title: "''Wireless Embedded Index Coded Transmissions with Multiple Antennas,''"
+        authors: "H. Song&#44; <b> K. Son </b>&#44; and W. Choi&#44;"
+        conference: International Conference on ICT Convergence (ICTC)
+        place: "Jeju, Korea,"
+        date: "Oct. 2020,"
+        pages: "pp. 1-6."
+
         
 projects:
     title: Projects
