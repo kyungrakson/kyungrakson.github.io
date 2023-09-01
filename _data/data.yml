@@ -152,27 +152,21 @@ publications:
     title: Submitted or In Preparation
     papers:
       - title: "''Coded matrix computation in wireless networks,''"
-        #link: "https://ieeexplore.ieee.org/document/9754267"” submitted to IEEE Trans. Wireless Commun,
+        #link: "https://ieeexplore.ieee.org/document/9754267"
         authors: "<b> K. Son <b> and W. Choi&#44;"
         journal: Submitted to IEEE Trans. Wireless Commun., (In major revision)
 
       - title: "''ICNet: index coding neural network based on graph isomorphism,''"
-        #link: "https://ieeexplore.ieee.org/document/9754267"” submitted to IEEE Trans. Wireless Commun,
+        #link: "https://ieeexplore.ieee.org/document/9754267"
         authors: "<b> K. Son <b>&#44; J. H. Lee&#44; and W. Choi&#44;"
         journal: IEEE Trans. Vehi. Technol.
 
       - title: "''Numerically stability analysis of random coefficient based coded matrix computation,''"
-        #link: "https://ieeexplore.ieee.org/document/9754267"” submitted to IEEE Trans. Wireless Commun,
+        #link: "https://ieeexplore.ieee.org/document/9754267"
         authors: "<b> K. Son <b>&#44; S. Park&#44; and W. Choi&#44;"
         journal: in preparation.
 
-      - title: "'' A spectrum sensing based on algebraic structure of zero crossing of a signal: shift-invariant sampling,''"
-        #link: "https://ieeexplore.ieee.org/document/9754267"” submitted to IEEE Trans. Wireless Commun,
-        #authors: 
-        journal: in preparation.
 
-      - title: "3 more papers in preparation"
-      # 희강, 호준, 광재
         
 projects:
     title: Projects
