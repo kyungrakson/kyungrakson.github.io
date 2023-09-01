@@ -180,19 +180,26 @@ inpreparation:
 conferences:
     title: Conferences
     papers:
-      - title: "''Coded matrix computation with gradient coding,''"
+      - title: "''Wireless Embedded Index Coded Transmissions with Multiple Antennas,''"
         authors: "H. Song&#44; <b> K. Son </b>&#44; and W. Choi&#44;"
-        conference : in Proc. of Int. Symp. Inf. Theory
+        conference : accepted to IEEE International Conference on ICT Convergence (ICTC)
+
+        
+      - title: "''Coded matrix computation with gradient coding,''"        
+        authors: "<b> K. Son </b> and A. Ramamoorthy&#44;"
+        conference : in Proc. of IEEE Int. Symp. Inf. Theory
         place: "Taipei, Taiwan,"
         date: "June 2020,"
         pages: "pp. 1-6."
 
-      - title: "''Wireless Embedded Index Coded Transmissions with Multiple Antennas,''"
-        authors: "<b> K. Son </b> and A. Ramamoorthy&#44;"
-        conference : accepted to International Conference on ICT Convergence (ICTC)
+      - title: "''Single group multicast beamformer design using active constraints,''"
+        authors: "<b> K. Son </b>&#44; and W. Choi&#44;"
+        conference : in Proc. of IEEE International Conference on ICT Convergence (ICTC)
         place: "Jeju, Korea,"
         date: "Oct. 2020,"
         pages: "pp. 1-6."
+
+
         
 projects:
     title: Projects
