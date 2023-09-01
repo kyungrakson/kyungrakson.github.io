@@ -1,0 +1,49 @@
+{% assign inpreparation = site.data.data.inpreparation %}
+{% if inpreparation %}
+<section class="section inpreparation-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ inpreparation.title }}
+  </h2>
+
+  {% if inpreparation.intro %}
+  <div class="intro">
+    {{ inpreparation.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for inpreparation in inpreparation.papers %}
+  <div class="item">
+    <span class="inpreparation-authors">{{inpreparation.authors }}</span>
+    {% if inpreparation.link %}
+      <span><a href="{{ inpreparation.link }}">{{ inpreparation.title }}</a></span>
+    {% else %}
+      <span>{{ inpreparation.title }}</span>
+    {% endif %}
+    {% if inpreparation.journal %}
+      <span class="inpreparation-jrnl_conf">{{ inpreparation.journal }}</span> 
+      <span class="inpreparation-conference">{{inpreparation.volume }}</span> 
+      <span class="inpreparation-conference">{{inpreparation.number}}</span> 
+      <span class="inpreparation-conference">{{inpreparation.pages}}</span> 
+      <span class="inpreparation-conference">{{ inpreparation.date }}</span> 
+    {% endif %}
+    {% if inpreparation.conference %}
+      <span class="inpreparation-jrnl_conf">{ inpreparation.conference }}</span> 
+      <span class="inpreparation-conference">{{inpreparation.place }}</span> 
+      <span class="inpreparation-conference">{{ inpreparation.date }}</span> 
+      {% if inpreparation.pages %}
+        <span class="inpreparation-conference">{{", pp. " inpreparation.pages }}</span> 
+      {% endif %}
+    {% endif %}
+
+    <!--<div class="inpreparation-authors">{{ inpreparation.authors }}</div>
+    <div class="inpreparation-conference">{{ inpreparation.conference }}</div> -->
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
