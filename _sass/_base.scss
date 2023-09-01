@@ -252,6 +252,32 @@ p {
   }
 }
 
+.conferences-title {
+  font-size: 16px;
+  font-weight: 400;
+  color: $text-color;
+  margin-bottom: 1px;
+}
+.conferences-authors {
+  font-style: normal;
+  color: $text-grey;
+  margin-bottom: 1px;
+}
+.conferences-jrnl_conf {
+  font-style: italic;
+  color: $text-color;
+  margin-bottom: 1px;
+} 
+.conferences-section {
+  .intro {
+    margin-bottom: 30px;
+  }
+  .item {
+    margin-bottom: 15px;
+  }
+}
+}
+
 .skillset {
   .item {
     margin-bottom: 15px;
