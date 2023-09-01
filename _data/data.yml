@@ -186,6 +186,7 @@ conferences:
         
       - title: "''Coded matrix computation with gradient coding,''"        
         authors: "<b> K. Son </b> and A. Ramamoorthy&#44;"
+        link: "https://ieeexplore.ieee.org/document/10206996"
         conference : in Proc. of IEEE Int. Symp. Inf. Theory,
         place: "Taipei, Taiwan,"
         date: "June 2023,"
@@ -193,6 +194,7 @@ conferences:
 
       - title: "''Single group multicast beamformer design using active constraints,''"
         authors: "<b> K. Son </b>&#44; and W. Choi&#44;"
+        link: "https://ieeexplore.ieee.org/document/9289400"
         conference : in Proc. of IEEE International Conference on ICT Convergence (ICTC),
         place: "Jeju, Korea,"
         date: "Oct. 2020,"
@@ -200,6 +202,7 @@ conferences:
 
       - title: "''Optimization of index code and transmission time for minimum outage in broadcast channels,''"
         authors: "<b> K. Son </b>&#44; J. H. Lee&#44; and W. Choi&#44;"
+        link: "https://ieeexplore.ieee.org/document/8377367"
         conference : in Proc. of IEEE IEEE Wireless Commun. and Networking Conference (WCNC),
         place: "Barcelona, Spain,"
         date: "Apr. 2018,"
